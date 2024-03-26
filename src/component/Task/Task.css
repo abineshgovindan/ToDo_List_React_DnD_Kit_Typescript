@@ -1,0 +1,22 @@
+.task{
+    background-color:  rgba(60, 60, 60, 0.836);
+    border-radius: 5px;
+    box-shadow: rgba(237, 229, 229, 0.16) 0px 1px 4px;
+    width: 100%;
+    padding:20px;
+    display: flex;
+    align-self: center;
+    justify-self: flex-start;
+    gap: 20px;
+    touch-action: none;
+}  
+
+
+.task_done {
+    text-decoration: line-through ;
+}
+.checkBox{
+    height:20px;
+    width: 20px;
+}
+
